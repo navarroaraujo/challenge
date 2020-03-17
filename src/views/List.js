@@ -1,5 +1,5 @@
-import React, { Component } from 'react';
-import { SafeAreaView, View, FlatList, StyleSheet, Text , TouchableHighlight} from 'react-native';
+import React from 'react';
+import { SafeAreaView, View, FlatList, Text , TouchableHighlight} from 'react-native';
 
 
 const DATA = [
